@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Meses</string>
+    <string name="Enero">
+        Mes: Enero
+        \n
+        Celebracion: Año nuevo
+    </string>
+    <string name="Febrero">
+        Mes: Febrero
+        \n
+        Celebracion: Huelga de Dolores
+    </string>
+    <string name="Marzo">
+        Mes: Marzo
+        \n
+        Celebracion: Día Internacional de la Mujer
+    </string>
+    <string name="Abril">
+        Mes: Abril
+        \n
+        Celebracion: Semana Santa
+    </string>
+    <string name="Mayo">
+        Mes: Mayo
+        \n
+        Celebracion: Santa Cruz
+    </string>
+    <string name="Junio">
+        Mes: Junio
+        \n
+        Celebracion: Baile de los Gigantes
+    </string>
+    <string name="Julio">
+        Mes: Julio
+        \n
+        Celebracion: Fiesta Nacional Indígena Rabin Ajaw
+    </string>
+    <string name="Agosto">
+        Mes: Agosto
+        \n
+        Celebracion: Festival Folklórico Nacional El Paab’anc
+    </string>
+    <string name="Septiembre">
+        Mes: Septiembre
+        \n
+        Celebracion: Día de la Independencia
+    </string>
+    <string name="Octubre">
+        Mes: Octubre
+        \n
+        Celebracion: San Francisco de Asís
+    </string>
+    <string name="Noviembre">
+        Mes: Noviembre
+        \n
+        Celebracion: Todos los Santos
+    </string>
+    <string name="Diciembre">
+        Mes: Diciembre
+        \n
+        Celebracion: Quema del Diablo
+    </string>
+    <string name="historia1">
+    En enero, como en el resto del mundo, los guatemaltecos celebran el Año Nuevo. Para los habitantes de este país esta fecha es un motivo de celebración en familia. Lo más curioso del Año Nuevo en Guatemala es la quema de muñecos, una forma de eliminar todo lo mal del año que acaba. Los muñecos simbolizan todo lo que se quiere dejar atrás para entrar con buen pie en el nuevo año. Por supuesto también hay fuegos artificiales y celebraciones con música y baile por todo el país.
+    </string>
+    <string name="historia2">
+    En febrero, las fiestas populares en Guatemala se dividen en varias fechas: el 20 de febrero es el día de la Marimba, instrumento musical que es símbolo patrio del país. El 26 de febrero se celebra el día del Patrimonio Cultural de la Nación. Este día se celebra la primera visita oficial del gobierno en 1848 a Tikal, ciudad maya de gran importancia.
+    \n
+    Otro de los eventos en Guatemala que destacan por su originalidad es la Huelga de Dolores, que viene a ser un desfile de carnaval. El desfile toma las calles del centro histórico de la ciudad de Guatemala. En el cual, grupos de estudiantes encapuchados gritan canciones de protesta contra el gobierno.
+    </string>
+    <string name="historia3">
+En 1857 mujeres realizan marchas exigiendo mejores condiciones de trabajo.\n
+Ciudad de Guatemala, marzo 2012/En 1975, el organismo de las Naciones Unidas estableció, oficialmente, el día 8 de marzo como el Día internacional de la mujer. La crónica de este día se gesta en medio de grandes hechos y acontecimientos históricos que afectaron al mundo en las primeras décadas del siglo veinte como la primera y segunda guerras mundiales, la Revolución Rusa, la lucha por la aprobación universal del sufragio femenino y el creciente auge del sindicalismo de mujeres en Europa, Estados Unidos y Latinoamérica.
+        \n
+Pero, principalmente, la instauración de un día, para celebrar la lucha y reivindicación de los derechos de las mujeres, el cual está marcado, a su vez, por varios eventos que ocurrieron en la ciudad de Nueva York, Estados Unidos de Norte América, a finales del siglo XIX y principios del XX, y que fueron fundamentales para la creación de este día.
+        \n
+Entre los más importantes, cabe resaltar la gran marcha marzo de 1857 convocada por  trabajadoras textiles del sindicato de costureras de la compañía de Lower East Coast. En ésta, participó un grupo numeroso de mujeres que manifestaron por las calles de los barrios adinerados de la ciudad de Nueva York. Su objetivo era protestar por las miserables condiciones de trabajo a las que estaban siendo sometidas y para reclamar una jornada de trabajo más justa.
+        \n
+Diez años después, fueron las planchadoras de cuellos de la ciudad de Troy, de Nueva York, y que ya habían formado un sindicato, las que convocaron a huelga, mediante la cual pedían, entre otras cosas, aumento de salarios. A pesar de este esfuerzo de organización colectiva, luego de diez meses de paro, tuvieron que regresar al trabajo sin haber logrado sus propósitos.
+        \n
+Otro hecho importante para la configuración de este día, lo representa la declaración de huelga de aproximadamente cuarenta mil costureras industriales de las grandes fabricas norteamericanas, que reclamaban su derecho a unirse a los sindicatos, mejoras salariales y rechazo al trabajo infantil.
+        \n
+En 1857 mujeres marchan exigiendo mejores condiciones de trabajo.
+Durante este movimiento laboral, sin embargo, 129 trabajadoras de la fábrica Cotton Textil, en Washington Square, Nueva York, fallecieron quemadas durante un incendio provocado en el inmueble, debido a que los dueños de la fábrica las encerraron para forzarlas a permanecer en el trabajo y no unirse a la huelga, lo que impidió que pudieran salir durante el siniestro.
+    </string>
+    <string name="historia4">
+Las festividades en Guatemala para los meses de marzo y abril giran entorno a la Semana Santa. Los guatemaltecos viven esta celebración cristiana con mucho fervor, cubren las calles de flores y sacan a procesión a sus santos.
+
+En Chichicastenango las procesiones son tan impresionantes como en Antigua Guatemala, pero se destacan porque los lugareños van vestidos con el traje típico. La misa se celebra en idioma quiché, envuelta entre inciensos mayas y plegarias ancestrales.
+    </string>
+    <string name="historia5">
+Del 1 al 20 de mayo tiene lugar la fiesta en honor a la Santa Cruz y el Niño de Atocha en Amatitlán. En esta fiesta tienen lugar diferentes eventos sociales y culturales, así como danzas folclóricas. Del 17 al 21, en Patzún y Chimaltenango tienen lugar diversas festividades: la Fiesta en honor a San Bernardino de Sena y el Corpus Cristi.
+    </string>
+    <string name="historia6">
+El baile de los Gigantes en Antigua es una de las festividades en Guatemala que se celebran durante el mes de junio. Consiste en un baile folklórico de gigantes y cabezudos que toman la plaza de la Catedral de Antigua Guatemala. El baile, según la tradición anuncia a la población el día del Corpus Christi.
+    </string>
+    <string name="historia7">
+Una de las fiestas populares de Guatemala más tradicionales es la Fiesta Nacional Indígena Rabin Ajaw. Tanto en Verapaces como en Cobán, se elige y corona a la reina indígena nacional Rabin Ajaw. Todo el país participa en esta fiesta tradicional que está considerada como el festival maya más importante de Guatemala.
+\n
+También en julio se celebra el Baile del Palo Volador en Cubulco, que coincide con las fiestas en honor a Santiago Apóstol. Los bailadores, vestidos de negro, danzan alrededor de un palo de 30 metros, del que se cuelgan boca abajo. Una celebración que sin duda no te puedes perder.
+    </string>
+    <string name="historia8">
+En agosto, uno de los eventos que se celebra en Guatemala es el Festival Folklórico Nacional El Paab’anc en Cobán. Esta fiesta tradicional Q’eqchi es una celebración religiosa de los pueblos indígenas de Alta Verapaz. Es una fiesta maya donde se encienden velas y se realizan ofrendas y bailes tradicionales.
+    </string>
+    <string name="historia9">
+En agosto, uno de los eventos que se celebra en Guatemala es el Festival Folklórico Nacional El Paab’anc en Cobán. Esta fiesta tradicional Q’eqchi es una celebración religiosa de los pueblos indígenas de Alta Verapaz. Es una fiesta maya donde se encienden velas y se realizan ofrendas y bailes tradicionales.
+    </string>
+    <string name="historia10">
+El mes de octubre dentro de las fiestas populares en Guatemala da la bienvenida a las Fiestas en honor a San Francisco de Asís en Totonicapán. Tienen lugar varios eventos sociales, culturales y deportivos, así como danzas folklóricas.
+    </string>
+    <string name="historia11">
+Pero sin duda, es el mes de noviembre el que trae una de las festividades en Guatemala más sorprendentes. El día de Todos los Santos se celebra el Festival de Barriletes Gigantes en Sumpango. Esta fiesta es una mezcla de tradición, música y color, donde los barriletes, o cometas gigantes ahuyentan a los malos espíritus.
+    </string>
+    <string name="historia12">
+De entre todas las fiestas populares de Guatemala, la Quema del Diablo es un evento mágico-religioso que se celebra cada 7 de diciembre. Su cometido es realizar una limpieza espiritual mediante la quema de figuras de papel que simbolizan al diablo.
+        \n
+Si puedes hacer coincidir la fecha de tu viaje a Guatemala con alguna de estas festividades, seguro que disfrutarás el doble de la cultura y tradiciones de Guatemala.
+    </string>
+</resources>

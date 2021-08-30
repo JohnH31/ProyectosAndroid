@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyAppExtrasRecyclerFrragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detalleString1">
+        Esto es un ejemplo de detalles1
+
+    </string>
+    <string name="especificacionesString1">
+        esto es un ejemplo de especificaciones1
+
+    </string>
+    <string name="detalleString2">
+        Esto es un ejemplo de detalles2
+
+    </string>
+    <string name="especificacionesString2">
+        esto es un ejemplo de especificaciones2
+
+    </string>
+    <string name="detalleString3">
+        Esto es un ejemplo de detalles3
+
+    </string>
+    <string name="especificacionesString3">
+        esto es un ejemplo de especificaciones3
+
+    </string>
+    <string name="detalleString4">
+        Esto es un ejemplo de detalles4
+
+    </string>
+    <string name="especificacionesString4">
+        esto es un ejemplo de especificaciones4
+
+    </string>
+</resources>

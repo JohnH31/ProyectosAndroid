@@ -1,0 +1,2 @@
+rootProject.name = "MiApp_PrimerProyecto"
+include ':app'

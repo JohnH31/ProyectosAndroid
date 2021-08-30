@@ -1,0 +1,9 @@
+com/example/myappmeses/MainActivity.java
+ com.example.myappmeses.MainActivity
+ com.example.myappmeses.MainActivity$1
+com/example/myappmeses/AdaptadorLista.java
+ com.example.myappmeses.AdaptadorLista
+com/example/myappmeses/MAMeses.java
+ com.example.myappmeses.MAMeses
+com/example/myappmeses/BuildConfig.java
+ com.example.myappmeses.BuildConfig

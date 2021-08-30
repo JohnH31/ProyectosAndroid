@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pinturas</string>
+    <string name="Loshombresquenosabennada">
+        Les Hommes en sauront rien (Los hombres que no saben nada) - óleo sobre tela, 1923 - Max Ernst, Tate, UK
+Max Ernst (1891, Brühl, Alemania - 1976, París, Francia) fue uno de los pioneros del Dadaísmo y luego se incorporó al Surrealismo, destacando en la pintura y en la poesía.
+    </string>
+    <string name="Lapersistenciadelamemoria">
+        La persistencia de la memoria - Óleo sobre tela, 1931 - Salvador Dalí, MoMa, NY
+Salvador Dalí (1904-1989, Figueres, España) es el más famoso de los surrealistas y su nombre pasó a ser, con el tiempo, sinónimo del movimiento. Esto ocurrió a pesar de que, alrededor de 1937 y como consecuencia de la transformación de su estilo y de sus posiciones políticas, Breton lo expulsara del Surrealismo. Por ende, Dalí es el más controversial.
+    </string>
+    <string name="Elcazador">
+        El cazador (Paisaje catalán). Óleo sobre tela, 1924 - Joan Miró, MoMa, NY
+Joan Miró (1893, Barcelona - 1983, Palma de Mallorca, España) es uno de los artistas más influyentes del siglo XX. Las obras más conocidas del artista son sus pinturas, aunque también creó como escultor, diseñador, ceramista, etc.
+    </string>
+    <string name="Laloba">
+Jackson Pollock: La loba, 1943, óleo, guache y yeso sobre lienzo, 106.4 x 170.2 cm, Museo de Arte Moderno, Nueva York. Expresionismo abstracto.
+La abstracción lírica abarca todos los estilos abstractos que utilizan elementos libres, sin procesos estrictos de racionalización geométrica o matemática, es decir, sin reglas predefinidas. En estos estilos prevalece la expresividad, la intuición y, con frecuencia, la espontaneidad.
+    </string>
+    <string name="Amarrillorojoazul">
+Vasili Kandinsky: Amarillo, rojo y azul, 1925, óleo sobre lienzo, 127 x 200 cm, Centro Georges Pompidou, París. Abstracción lírica.
+Vasili Kandinsky (o Kandinski) fue un pintor, músico y teórico del arte de origen ruso considerado precursor del abstraccionismo lírico y figura influyente del expresionismo, especialmente del grupo El jinete azul (Der blauer Raiter). Fue autor de los libros De lo espiritual en el arte y Punto y línea sobre el plano.
+    </string>
+    <string name="Composiciónsuprematista">
+Kazimir Malevich: Composición suprematista, 1916, óleo sobre lienzo, 88,5 cm × 71 cm, colección privada. Suprematismo.
+Malevich fue pintor que incursionó en diferentes corrientes como el cubofuturismo, antes de crear el movimiento que le daría su definitiva proyección artística, conocido como suprematismo. Fue acusado de espionaje al servicio de los polacos, por lo que debió pasar tres meses en prisión.
+    </string>
+    <string name="VilleneuveSisley">
+Puente en Villeneuve, Sisley
+Cuadro Puente en Villeneuve pintado por Alfred Sisley, obra pintada en entorno rural con gran variedad de colores. Las figuras principales de la composición son: río, puente y casas.
+    </string>
+    <string name="Naturalezamuertaconmanzanas">
+Naturaleza muerta con manzanas, Cézanne
+El cuadro Naturaleza muerta con Manzanas fue pintado el año 1898, en la última etapa artística del maestro Paul Cézanne. Aunque en toda su carrera volvió una y otra vez a este género artístico, fue en esta época cuando Cézanne fue más prolífico en este tipo de cuadros: escenas hogareñas, especialmente relacionada con los elementos de la cocina.
+
+Frutas jarras, manteles y cortinas dispuestos de manera armónica; la profundidad de campo, que se percibe centrada en el observador, junto a la representación de la luz y el espacio, hacen que esta obra sea juzgada por los expertos como digna de un genio.
+    </string>
+    <string name="EnelCafé">
+En el Café, Manet
+Esta obra muestra una situación cotidiana de las noches parisinas de la época: caballeros acaudalados acudiendo a los famosos cabarets de la ciudad.
+
+Una característica patente en este cuadro, es la soledad de los personajes, ninguno de ellos se mira mutuamente, lo que acentúa la senación.
+    </string>
+</resources>

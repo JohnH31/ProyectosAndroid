@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contador de Pulsos"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:layout_marginTop="85sp"
+        />
+
+    <TextView
+        android:id="@+id/txtContador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="100sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_below="@+id/txtTitulo"
+        android:layout_marginTop="150sp"
+        />
+
+    <Button
+        android:id="@+id/btnMas"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:text="+"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txtContador"
+        android:layout_marginTop="100sp"
+        android:layout_marginLeft="40sp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:onClick="pulsar"
+        />
+
+    <Button
+        android:id="@+id/btnMenos"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txtContador"
+        android:layout_marginTop="100sp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="40sp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:onClick="pulsar"
+        />
+
+    <Button
+        android:id="@+id/btnReiniciar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reiniciar"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:layout_below="@id/txtContador"
+        android:layout_marginTop="200sp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="75sp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:onClick="pulsar"
+        />
+
+</RelativeLayout>
